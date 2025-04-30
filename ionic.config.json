@@ -1,0 +1,7 @@
+{
+  "name": "testCoursal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
